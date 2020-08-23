@@ -47,6 +47,6 @@ DataListWidgetAsset::register($this);
                     <?= $dataDTO->created ?>
                 </td>
             </tr>
-        <? endforeach; ?>
+        <?php endforeach; ?>
     </tbody>
 </table>
