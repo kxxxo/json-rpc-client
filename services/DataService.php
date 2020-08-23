@@ -9,7 +9,7 @@ use app\models\dto\DataDTO;
 
 class DataService
 {
-    const SERVICE_URL = 'http://localhost:8080/data';
+    const SERVICE_URL = 'http://json-rpc-server.kxxo.ru/data';
 
     /**
      * @param $page_uid
