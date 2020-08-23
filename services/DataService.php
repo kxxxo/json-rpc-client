@@ -2,10 +2,10 @@
 
 namespace app\services;
 
-use app\models\Dto\GetDataDTO;
+use app\models\dto\GetDataDTO;
 use app\models\forms\DataForm;
 use nizsheanez\jsonRpc\Client;
-use app\models\Dto\DataDTO;
+use app\models\dto\DataDTO;
 
 class DataService
 {

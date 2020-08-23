@@ -1,6 +1,6 @@
 <?php
 
-namespace app\models\Dto;
+namespace app\models\dto;
 
 use JsonRpc2\Dto;
 

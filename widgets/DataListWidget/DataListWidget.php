@@ -1,7 +1,7 @@
 <?php
 namespace app\widgets\DataListWidget;
 
-use app\models\Dto\DataDTO;
+use app\models\dto\DataDTO;
 use \yii\bootstrap\Widget;
 
 /**

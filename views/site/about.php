@@ -8,7 +8,7 @@ use yii\helpers\Html;
 use \app\widgets\DataFormWidget\DataFormWidget;
 use \app\widgets\Alert;
 use \app\widgets\DataListWidget\DataListWidget;
-use \app\models\Dto\DataDTO;
+use \app\models\dto\DataDTO;
 use app\models\forms\DataForm;
 
 $this->title = 'About';

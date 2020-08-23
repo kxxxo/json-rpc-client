@@ -1,6 +1,6 @@
 <?php
 
-use \app\models\Dto\DataDTO;
+use \app\models\dto\DataDTO;
 use \yii\web\View;
 use \app\widgets\DataListWidget\assets\DataListWidgetAsset;
 /** @var $this View */
