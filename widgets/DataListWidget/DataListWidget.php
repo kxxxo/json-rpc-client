@@ -19,7 +19,7 @@ class DataListWidget extends Widget
     public function run()
     {
         return $this->render('list', [
-            'data_list' => $this->data_list,
+            'data_list' => $this->data_list
         ]);
     }
 }
