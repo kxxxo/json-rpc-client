@@ -1,0 +1,9 @@
+table.data-list-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.data-list-table,
+table.data-list-table>thead>tr>th {
+    border: 1px solid black;
+}
